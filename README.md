@@ -24,7 +24,7 @@
 ## Sobre mi:
 
 <p>
-En Julio de 2025 finalicé la Tecnicatura Universitaria en Programación en la UTN FRGP, formación que me permitió especializarme en lenguajes como C++, C# y Java. Actualmente mi objetivo es desarrollarme como Full Stack Developer, por lo que además de actualmente estar realizando una capacitación en Java, Comenze un curso de Front-End con JavaScript en TalentoTech, con el fin de fortalecer y completar mis conocimientos en el área de desarrollo frontend.
+En Julio de 2025 finalicé la Tecnicatura Universitaria en Programación en la UTN FRGP, formación que me permitió especializarme en lenguajes como C++, C# y Java. Actualmente mi objetivo es desarrollarme como Full Stack Developer, por lo que además de actualmente estar realizando una capacitación en Java, Comenze un curso de Front-End con HTML,CSS y JavaScript en TalentoTech, con el fin de fortalecer y completar mis conocimientos en el área de desarrollo frontend.
   
 </p>
 
